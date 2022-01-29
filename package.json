@@ -1,0 +1,26 @@
+{
+  "name": "react-js-elastic-input",
+  "version": "1.0.0",
+  "description": "Validate your inputs with flutter style",
+  "main": "ElasticInput.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akifcan/react-js-elastic-input.git"
+  },
+  "keywords": [
+    "input",
+    "form",
+    "validate",
+    "validations",
+    "react"
+  ],
+  "author": "Akifcan Kara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akifcan/react-js-elastic-input/issues"
+  },
+  "homepage": "https://github.com/Akifcan/react-js-elastic-input#readme"
+}
